@@ -8,7 +8,9 @@ header{
 }
 main{
 	border: 2px solid #aaa;
+	background-color: #bbb;
 }
 footer{
 	border: 2px solid #aaa;
+	background-color: #bbb;
 }
