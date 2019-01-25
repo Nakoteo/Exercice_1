@@ -6,3 +6,9 @@ header{
 	border: 2px solid #aaa;
 	background-color: #bbb;
 }
+main{
+	border: 2px solid #aaa;
+}
+footer{
+	border: 2px solid #aaa;
+}
